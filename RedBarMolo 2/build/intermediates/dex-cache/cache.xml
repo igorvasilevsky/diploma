@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_d6287bf83a0c4ef569201ca63e54e1f54d1a622d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a6af13a0e63d19b6b995b6e4daef6a83da5a9153\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b271f37c30cf103abc3fa990bf9e3f3f83ea0999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a07f7c0abd8e897f9a9cc02873d995e14f6614b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_68c4d676bcb731cb226fd5ae20920b31b91be727\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_18e0e333c0f8cf118b785f64c77ad8bdf97e19d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f8513479997fc5cac723d068441ae43a3f0f9b65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_46a0d812474d26f9007b8f6c7c5d0030c3fdf713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b432c2eb15332f22eb1b10485e002f67f164bc5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5a09ce147efb4c42d88734407cb56c03e4af859a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_d561ba85906f3361f97f0e19622db31b700b8dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f041f5614fba08cc666f072c9348dddfc5b5302d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_bf83b12cebce2fd1f2919976db9b4e7c1bd8448b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_83014ba8ff9c8c577f98d1a96d31234317276209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_2f4702e362ab4c1d43279fbc559fa3ebc488b9ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_95c151655fa03c1e87014d019ad3ecd21e4a6e69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_674f552cc1cc507c95f835d5b57c9b56b875eea9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_59b2ff0ac872d6e320a5ee1fd9596f75f0501965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f1bd7feec4f18ab148966e1b2a7f7378580f2b32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ee40c02eb7d51e0b789b16de5b7ef769eb70fd3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f297dccdf4d15658b030ebc266063c95f2a1dc8e">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d8966d726dd16b32ec738bafb642b6d5d88f08b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1934f44017aee0baac5fd76b849da7959b9d0355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_aca39b25392864d6fbc3b3baffdc7ed95dc88281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1155b7577f8a1b406f16824665094f0a9823c7eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="88d20cad5a7d85eab5e51a46b0103dd422227bb4">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_48d840ce620ca15ab78d96f5462598f555f3448b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="926472f5bf393ee228ddc47b437419d700167cab">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4cc2e05a1dbf01686737a81dc75252632a5aa95d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_2c3e95b45ab222a6023fdc41814829b9627dda2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7cf20fd307d7a06b6d091c4da91db1c5fd71955c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_104b3b1856cc05ec599168ea7fb36ed336fed77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_efa49df4518b8f3f542356f351069f1be2608da2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="89aa729a5b78b043c03ee852246dfeb4c263f9aa">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7d514e530c1e71f562e11e79091bba3ed6b53cab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_37e87b5c9712d8563d84c37136e885524c4a1bb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Lenovo\Desktop\for Git\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_685267d949ce684600b8a2158883afefe83be5f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_ae4d69d0cfbc530090c22d196489807d5ae09591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c3e5d0fa5e5d4995dbc5af052808b77eedd70171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_5158c725eb4678e2cc74369db286859e8fb3268e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Lenovo\AndroidStudioProjects\RedBarMolo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e2a5710f8f86f0c7764916b1c97ba8e04e8bd0d4\classes.dex" />
+    </item>
+
+</items>

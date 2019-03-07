@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\DP 2017\\testFirebase1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Lenovo\\.android\\build-cache\\dd66e47a7879c122406971a399f3246e85d0bddd\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RedBarMolo</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_create_order">Create Order</string>
+    <string name="action_settings" />
+    <string name="title_activity_order" />
+    <string name="title_top"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="drinks">
+        <item>Whisky</item>
+        <item>Martini</item>
+    </string-array>
+
+    <string-array name="events">
+        <item>Parties</item>
+        <item>Stand-up</item>
+    </string-array>
+
+    <string-array name="photoreports">
+        <item>Last party</item>
+        <item>Albums</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Drinks</item>
+        <item>Events</item>
+        <item>Photo report</item>
+    </string-array>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="london">london</string>
+    <string name="favorite">Favorite</string>
+
+</resources>
